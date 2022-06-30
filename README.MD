@@ -1,7 +1,7 @@
 <h3>
   
 ```javascript
-const JayTheCreator = {
+const luisMartinez011 = {
     name: "Luis Martinez",
     pronouns: "He" | "Him",
     os: "Linux", "Windows 10", "Windows 11",
