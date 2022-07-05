@@ -13,7 +13,7 @@ const luisMartinez011 = {
             c#: [".NET", "Entity Framework"]
         },
         frontEnd: {
-            js: ["ReactJS", "Redux", "NextJS", "Angular"],
+            js: ["ReactJS", "NextJS", "Angular"],
             c#: ["Blazor"]
         },
         mobil: {
