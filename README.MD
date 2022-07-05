@@ -6,7 +6,7 @@ const luisMartinez011 = {
     pronouns: "He" | "Him",
     os: "Linux", "Windows 10", "Windows 11",
     code: ["Javascript", "Typescript", "C#", "HTML/CSS"],
-    askMeAbout: ["WebDev", "Tech", "FullStack", "FrontEnd", "BackEnd"],
+    askMeAbout: ["WebDev", "FullStack", "FrontEnd", "BackEnd"],
     technologies: {
         backEnd: {
             js: ["Node", "Express", "NestJs", "Apollo Server"],
