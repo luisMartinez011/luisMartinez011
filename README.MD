@@ -16,7 +16,7 @@ const luisMartinez011 = {
             js: ["ReactJS", "NextJS", "Angular"],
             c#: ["Blazor"]
         },
-        mobil: {
+        mobile: {
             js: ["React Native"],
             c#: ["Xamarin"]
         },
