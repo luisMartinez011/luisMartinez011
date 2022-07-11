@@ -17,8 +17,7 @@ const luisMartinez011 = {
             c#: ["Blazor"]
         },
         mobile: {
-            js: ["React Native"],
-            c#: ["Xamarin"]
+            js: ["React Native"]
         },
         devOps: ["Azure", "Docker🐳"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"]
