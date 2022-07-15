@@ -9,7 +9,7 @@ const luisMartinez011 = {
     askMeAbout: ["WebDev", "FullStack", "FrontEnd", "BackEnd"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express", "NestJs", "Apollo Server"],
+            js: ["NodeJS", "Express", "NestJs", "Apollo Server"],
             c#: [".NET", "Entity Framework"]
         },
         frontEnd: {
