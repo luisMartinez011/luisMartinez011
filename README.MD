@@ -5,21 +5,20 @@ const luisMartinez011 = {
     name: "Luis Martinez",
     pronouns: "He" | "Him",
     os: "Linux", "Windows 10", "Windows 11",
-    code: ["Javascript", "Typescript", "C#", "HTML/CSS"],
+    code: ["Javascript", "Typescript", "C#", "Ruby", "HTML/CSS"],
     askMeAbout: ["WebDev", "FullStack", "FrontEnd", "BackEnd"],
     technologies: {
         backEnd: {
             js: ["NodeJS", "Express", "NestJs", "Apollo Server"],
-            c#: [".NET", "Entity Framework"]
+            ruby: ["Ruby on Rails"]
         },
         frontEnd: {
-            js: ["ReactJS", "NextJS", "Angular"],
-            c#: ["Blazor"]
+            js: ["ReactJS", "NextJS", "Angular"]
         },
         mobile: {
             js: ["React Native"]
         },
-        devOps: ["Azure", "Docker🐳"],
+        devOps: ["AWS", "Docker🐳"],
         databases: ["MongoDB", "MySQL", "PostgreSQL"]
     },
     currentFocus: "Full Stack Development"
