@@ -2,7 +2,6 @@
 ```javascript
 const luisMartinez011 = {
     name: "Luis Martinez",
-    pronouns: "He" | "Him",
     os: "Linux", "Windows 10", "Windows 11",
     code: ["Javascript", "Typescript", "C#", "Ruby", "HTML/CSS"],
     askMeAbout: ["WebDev", "FullStack", "FrontEnd", "BackEnd"],
