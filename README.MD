@@ -8,7 +8,8 @@ const luisMartinez011 = {
     technologies: {
         backEnd: {
             js: ["NodeJS", "Express", "NestJs", "Apollo Server"],
-            ruby: ["Ruby on Rails"]
+            ruby: ["Ruby on Rails"],
+            c#: [".NET Entity Framework"]
         },
         frontEnd: {
             js: ["ReactJS", "NextJS", "Angular"]
