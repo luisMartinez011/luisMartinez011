@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://futurumresearch.com/wp-content/uploads/2020/01/aws-logo.png" width="48" height="48" alt="JavaScript" />
+        <img src="https://www.c3ntro.com/hubfs/logo-aws-blanco%20(1).png"
       </a>
       <br>AWS
     </td>
