@@ -7,7 +7,7 @@
       <a href="#macropower-tech">
         <img src="https://i0.wp.com/tipeandocodigo.com/wp-content/uploads/2020/09/C-logo-mas-chico.png?fit=261%2C270&ssl=1" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>C#&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -53,6 +53,18 @@
     </td>
   </tr>
   <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="React" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="48" height="48" alt="Debian" />
+      </a>
+      <br>Numpy
+    </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="48" height="48" alt="Docker" />
@@ -64,12 +76,6 @@
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>NestJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Numpy
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
