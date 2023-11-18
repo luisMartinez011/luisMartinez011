@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning habit creation
 - 🙋‍♂️ Monterrey, Mexico
 - ⚡ Software engineering student at Universidad Autonoma de Nuevo Leon
-- 💬 19 yo
+- 💬 20 yo
 
 
 > Tools, languages, and other things that I like to work with.
