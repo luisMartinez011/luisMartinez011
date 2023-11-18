@@ -55,12 +55,7 @@
       </a>
       <br>Angular
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Ruby
-    </td>
+   
   </tr>
   <tr>
     <td align="center" width="96">
@@ -69,11 +64,11 @@
       </a>
       <br>Python
     </td>
-    <td align="center"  width="96">
+	 <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png" width="48" height="48" alt="Debian" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="48" height="48" alt="Sass" />
       </a>
-      <br>Numpy
+      <br>Ruby
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
@@ -86,12 +81,6 @@
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>NestJS
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://decodenatura.com/static/fb8aa1bb70c9925ce1ae22dc2711b343/nextjs-logo.png" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
