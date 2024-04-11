@@ -15,9 +15,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" width="48" height="48" alt="C#" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRML_Vjm-vOpR9fUKIODnsH2K0_5Y6k51YfFXg5JvNteA&s" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;
+      <br>C#&nbsp;.NET
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -37,9 +37,9 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="96" >
       <a href="#macropower-tech">
-        <img src="https://www.c3ntro.com/hubfs/logo-aws-blanco%20(1).png">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PB7gDdA6O7gpwXX-cDoelORPic-1rSP6xRUfJQX_zw&s" width="48" height="48">
       </a>
       <br>AWS
     </td>
@@ -58,13 +58,14 @@
       </a>
       <br>Python
     </td>
-	
-    <td align="center" width="96"> 
+
+<td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="48" height="48" alt="Docker" />
+        <img src="https://ms-azuretools.gallerycdn.vsassets.io/extensions/ms-azuretools/vscode-docker/1.29.0/1707838710399/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="React" />
       </a>
       <br>Docker
     </td>
+	<p> 
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="48" height="48" alt="Kubernetes" />
