@@ -15,15 +15,9 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://i0.wp.com/tipeandocodigo.com/wp-content/uploads/2020/09/C-logo-mas-chico.png?fit=261%2C270&ssl=1" width="48" height="48" alt="C#" />
+        <img src="https://thinkotb.b-cdn.net/wp-content/uploads/2023/01/c-4.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://avatars.githubusercontent.com/u/4223" width="48" height="48" alt="Python" />
-      </a>
-      <br>Ruby on Rails
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -64,12 +58,7 @@
       </a>
       <br>Python
     </td>
-	 <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Ruby
-    </td>
+	
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" width="48" height="48" alt="Docker" />
