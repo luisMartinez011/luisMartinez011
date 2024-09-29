@@ -86,9 +86,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://www.developerro.com/assets/uploads/2019/07/hashicorp-terraform.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Lambda
+      <br>Terraform
     </td>
   </tr>
 </table>
