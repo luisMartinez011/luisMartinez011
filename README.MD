@@ -86,7 +86,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://www.developerro.com/assets/uploads/2019/07/hashicorp-terraform.png" width="48" height="48" alt="Bootstrap" />
+        <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.28/1725899758977/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Terraform
     </td>
