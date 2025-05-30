@@ -4,10 +4,9 @@
 ### Here are some ideas to get you started :boom: :
 
 - 🔭 I’m currently working on improving my AWS skills
-- 🌱 I’m currently learning habit creation
 - 🙋‍♂️ Monterrey, Mexico
 - ⚡ Software engineering student at Universidad Autonoma de Nuevo Leon
-- 💬 21 yo
+- 💬 22 yo
 
 
 > Tools, languages, and other things that I like to work with.
