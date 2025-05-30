@@ -34,7 +34,7 @@
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>React
+      <br>Scikit-learn
     </td>
     <td align="center" width="96" >
       <a href="#macropower-tech">
@@ -69,7 +69,7 @@
       <a href="#macropower-tech" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Kubernetes" />
       </a>
-      <br>NestJS
+      <br>Jupyter
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
