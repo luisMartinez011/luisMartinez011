@@ -1,9 +1,11 @@
 
 ### :computer: Software engineer :pencil2:
 
-### Here are some ideas to get you started :boom: :
+### I'm a Software Engineer passionate about technology, data, and building impactful solutions.
 
-- 🔭 I’m currently working on improving my AWS skills
+- 💻 Interested in Data Science, Machine Learning, and Cloud Computing (AWS, Azure, GCP).
+- 🧠 Always exploring new tools and frameworks.
+- 🌱 Currently learning more about infrastructure as code and AI-powered applications.
 - 🙋‍♂️ Monterrey, Mexico
 - ⚡ Software engineering student at Universidad Autonoma de Nuevo Leon
 - 💬 22 yo
