@@ -1,5 +1,5 @@
 
-### :computer: Software engineering student :pencil2:
+### :computer: Software engineer :pencil2:
 
 ### Here are some ideas to get you started :boom: :
 
