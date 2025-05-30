@@ -67,7 +67,7 @@
 	<p> 
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>NestJS
     </td>
