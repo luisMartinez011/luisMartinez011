@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bH970DGV--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/j065mcmc1r78ycbdl7bt.jpg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="Jsonnet" />
       </a>
       <br>TypeScript
     </td>
